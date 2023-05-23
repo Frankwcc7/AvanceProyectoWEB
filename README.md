@@ -1,2 +1,0 @@
-# AvanceProyectoWEB
-Universidad Sideral Carrion
